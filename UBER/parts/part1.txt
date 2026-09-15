@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>UBER - ניתוח השקעה מלא</title>
+<style>
+:root{
+  --bg:#f5f7f9; --card:#ffffff; --ink:#111111; --muted:#667085; --line:#dfe3e8;
+  --green:#06C167; --green-soft:#ecfbf3; --black:#000; --warn:#fff7e6; --red:#fff0f0;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);font-family:Arial,Helvetica,sans-serif;color:var(--ink);line-height:1.65}
+.wrap{max-width:1220px;margin:auto;padding:24px}
+.hero{background:#000;color:#fff;border-radius:22px;padding:30px;margin-bottom:18px}
+.hero h1{margin:0 0 8px;font-size:34px}
+.hero p{margin:0;color:#d7d7d7}
+.badge{display:inline-block;background:var(--green);color:#000;font-weight:900;padding:6px 10px;border-radius:999px;font-size:12px;margin-bottom:10px}
+.tabs{display:flex;flex-wrap:wrap;gap:8px;position:sticky;top:0;background:rgba(245,247,249,.96);backdrop-filter:blur(8px);padding:10px 0;z-index:10}
+.tab{border:1px solid var(--line);background:#fff;border-radius:999px;padding:10px 14px;font-weight:800;cursor:pointer}
+.tab.active{background:#000;color:#fff;border-color:#000}
+.panel{display:none}.panel.active{display:block}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:14px;box-shadow:0 4px 16px rgba(0,0,0,.035)}
+.card.green{border-top:5px solid var(--green)}
+.card.dark{background:#000;color:#fff;border-color:#000}
+.card.soft{background:var(--green-soft);border-right:5px solid var(--green)}
+.card.warn{background:var(--warn);border-right:5px solid #f59e0b}
+.card.red{background:var(--red);border-right:5px solid #dc2626}
+.kpi{font-size:30px;font-weight:900;line-height:1.15}
+.muted{color:var(--muted);font-size:14px}
+.dark .muted{color:#cbd5e1}
+h2{margin-top:4px} h3{margin-bottom:8px}
+.good{color:#047857;font-weight:800}.watch{color:#b45309;font-weight:800}.bad{color:#b91c1c;font-weight:800}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{padding:10px;border-bottom:1px solid #e5e7eb;text-align:right;vertical-align:top}
+.scroll{overflow:auto}
+.small{font-size:13px}
+.calc input{width:100%;accent-color:var(--green)}
+.source-list a{color:#0b57d0;text-decoration:none;word-break:break-word}
+.source-list li{margin:8px 0}
+hr{border:none;border-top:1px solid var(--line);margin:18px 0}
+@media(max-width:650px){.wrap{padding:14px}.hero h1{font-size:28px}.tab{font-size:13px;padding:8px 10px}}
+</style>
+</head>
+<body>
+<main class="wrap">
+<section class="hero">
+  <div class="badge">MASTER / PARETO</div>
+  <h1>Uber Technologies - UBER</h1>
+  <p>ניתוח מלא בשפה פשוטה: העסק, Mobility, Delivery, פרסום, רכב אוטונומי, פיננסים, רכישת Delivery Hero, מתחרים, שווי, SMC, סיכונים ו-Gates.</p>
+</section>
+
+<div class="tabs">
+<button class="tab active" data-t="decision">החלטה</button>
+<button class="tab" data-t="business">איך העסק עובד</button>
+<button class="tab" data-t="mobility">Mobility</button>
+<button class="tab" data-t="delivery">Delivery</button>
+<button class="tab" data-t="ads">Uber One ופרסום</button>
+<button class="tab" data-t="av">רכב אוטונומי</button>
+<button class="tab" data-t="financials">המספרים</button>
+<button class="tab" data-t="cash">מזומן והון</button>
+<button class="tab" data-t="mna">Delivery Hero</button>
+<button class="tab" data-t="macro">מאקרו ורגולציה</button>
+<button class="tab" data-t="peers">מתחרים וסקטור</button>
+<button class="tab" data-t="valuation">שווי</button>
+<button class="tab" data-t="smc">SMC טכני</button>
+<button class="tab" data-t="risks">סיכונים</button>
+<button class="tab" data-t="gates">Gates ומעקב</button>
+<button class="tab" data-t="sources">מקורות</button>
+</div>
+
+<section class="panel active" data-p="decision">
+<div class="grid">
+  <div class="card green"><div class="muted">מחיר עוגן</div><div class="kpi">$72.63</div><div class="muted">סגירת 14 בספטמבר 2026</div></div>
+  <div class="card green"><div class="muted">Gross Bookings ברבעון</div><div class="kpi">$58.0B</div><div class="good">+22% במטבע קבוע</div></div>
+  <div class="card green"><div class="muted">FCF ב-12 חודשים</div><div class="kpi">>$10B</div><div class="muted">לראשונה בתולדות החברה</div></div>
+  <div class="card green"><div class="muted">ROIC</div><div class="kpi">~19%</div><div class="muted">עלייה חדה לעומת 2023-2024</div></div>
+</div>
+
+<div class="card dark">
+  <div class="badge">VERDICT זמני</div>
+  <h2>BUY CANDIDATE, אבל לא בלי תנאים</h2>
+  <p>Uber כבר אינה חברה שצריך “להאמין שיום אחד תהיה רווחית”. הרווחיות והמזומן כבר כאן. הפעילות גדלה בקצב דו-ספרתי, והרווח גדל מהר יותר מהיקף הפעילות. זה בדיוק סוג השיפור שאנחנו רוצים לראות.</p>
+  <p>הסיבה שאני לא נותן כאן Buy אוטומטי היא שיש שתי שאלות גדולות: האם Uber תישאר השער המרכזי להזמנת נסיעות גם כאשר Robotaxi יתפשט, והאם רכישת Delivery Hero תיצור ערך או תכניס לחברה יותר חוב ומורכבות ממה שצריך.</p>
+</div>
+
+<div class="card soft">
+  <h3>המשפט שמסכם את התזה</h3>
+  <p><strong>אם Uber תמשיך לגדול סביב 15%-20%, והרווח וה-FCF ימשיכו לצמוח מהר יותר מה-Gross Bookings, בזמן שהיא נשארת הפלטפורמה שדרכה גם רכבים אוטונומיים מגיעים ללקוח, אז המחיר הנוכחי נראה סביר עד אטרקטיבי.</strong></p>
+</div>
+
+<div class="grid">
+  <div class="card"><h3>מה כבר מוכח?</h3><p>208 מיליון משתמשים חודשיים, 3.9 מיליארד נסיעות/הזמנות ברבעון, FCF מעל $10B ב-12 חודשים, שיפור במרווחים, Delivery רווחי יותר, buybacks שמקטינים את מספר המניות.</p></div>
+  <div class="card"><h3>מה עדיין לא מוכח?</h3><p>שה-AV יחזק את Uber ולא יחליש אותה, שרכישת Delivery Hero תעבוד, ושקצב השיפור ברווחיות יישמר גם כאשר בסיס ההשוואה יהיה גבוה יותר.</p></div>
+</div>
+
+<div class="card">
+<h3>8 השאלות הקריטיות</h3>
+<table>
+<tr><th>#</th><th>שאלה</th><th>תשובה קצרה</th></tr>
+<tr><td>1</td><td>איך החברה עושה כסף?</td><td>עמלות על נסיעות ומשלוחים, שירותים לעסקים, פרסום ושירותים נוספים.</td></tr>
+<tr><td>2</td><td>מהם ה-KPI החשובים?</td><td>Gross Bookings, משתמשים ו-Trips, רווח תפעולי, FCF למניה.</td></tr>
+<tr><td>3</td><td>האם הצמיחה איכותית?</td><td>כן כרגע. הרווח גדל מהר יותר מהיקף הפעילות.</td></tr>
+<tr><td>4</td><td>האם המאזן טוב?</td><td>סביר וחזק תפעולית, אך רכישת Delivery Hero תעלה את החוב.</td></tr>
+<tr><td>5</td><td>מה אמור להשתנות?</td><td>יותר שימוש באפליקציה, יותר Delivery, יותר Ads, יותר AV דרך Uber.</td></tr>
+<tr><td>6</td><td>מה המחיר מניח?</td><td>המשך צמיחה, אבל גם חשש אמיתי מ-AV ומ-M&A.</td></tr>
+<tr><td>7</td><td>מה ה-Asymmetry?</td><td>חיובי, אך לא קיצוני במחיר $72.63.</td></tr>
+<tr><td>8</td><td>מה שובר את התזה?</td><td>האטה חדה ב-Bookings, עצירת margin expansion, AV עוקף את Uber או חוב/M&A יוצאים משליטה.</td></tr>
+</table>
+</div>
+</section>
+
+<section class="panel" data-p="business">
+<div class="card green"><h2>איך Uber באמת עובדת?</h2>
+<p>Uber אינה חברת רכב. היא שוק דיגיטלי שמחבר בין מי שרוצה נסיעה או משלוח לבין מי שיכול לספק אותו. היתרון שלה נובע מכך שכבר יש לה הרבה משתמשים והרבה נהגים ושליחים באותו מקום ובאותו זמן.</p>
+<p>ככל שיש יותר נהגים, זמן ההמתנה יכול לרדת. ככל שיש יותר נוסעים, לנהג יש יותר עבודה. זה יוצר <strong>אפקט רשת</strong>.</p></div>
+
+<div class="grid">
+<div class="card"><h3>Mobility</h3><p>נסיעות. Uber שומרת חלק מהסכום שהלקוח משלם ומעבירה את היתר לנהג, לאחר התאמות שונות.</p></div>
+<div class="card"><h3>Delivery</h3><p>משלוחי מסעדות, סופר וקמעונאות. Uber מקבלת עמלות מבתי עסק, מהלקוחות ולעיתים גם מפרסום.</p></div>
+<div class="card"><h3>Freight</h3><p>שוק להובלות מסחריות. כרגע זה עסק קטן יותר ולא מנוע מרכזי של התזה.</p></div>
+<div class="card"><h3>Advertising</h3><p>בתי עסק משלמים כדי לקבל מקום בולט באפליקציה. זה תחום חשוב כי הוא יכול להוסיף רווח בלי לייצר עוד נסיעה.</p></div>
+</div>
+
+<div class="card"><h3>למה קשה להתחרות ב-Uber?</h3>
+<p><strong>צפיפות משתמשים:</strong> הרבה ביקוש באותו אזור. <strong>צפיפות נהגים:</strong> הרבה היצע. <strong>מותג:</strong> משתמשים כבר מכירים את האפליקציה. <strong>נתונים:</strong> מיליארדי נסיעות עוזרים לתמחור, זמני הגעה ומניעת הונאות. <strong>פלטפורמה רחבה:</strong> אותו משתמש יכול להזמין נסיעה, אוכל, סופר ושירותים נוספים.</p></div>
+
+<div class="card soft"><h3>ה-KPI שאני רוצה לראות כל רבעון</h3>
+<p>אם הייתי יכול לראות רק ארבעה נתונים: <strong>Gross Bookings growth, Trips/MAPCs, Non-GAAP Operating Income growth, FCF per share.</strong></p>
+</div>
+</section>
+
+<section class="panel" data-p="mobility">
+<div class="grid">
+<div class="card green"><div class="muted">Gross Bookings</div><div class="kpi">$29.0B</div><div class="good">+20% במטבע קבוע</div></div>
+<div class="card green"><div class="muted">רווח תפעולי מגזרי</div><div class="kpi">$2.22B</div><div class="good">+28%</div></div>
+<div class="card green"><div class="muted">משתמשים חודשיים בכלל הפלטפורמה</div><div class="kpi">208M</div><div class="good">+16%</div></div>
+</div>
+
+<div class="card">
+<h3>הנקודה החשובה: Revenue לבדו מטעה כאן</h3>
+<p>ברבעון השני Revenue של Mobility עלה רק 1%, בזמן שהיקף ההזמנות עלה 22%. זה נראה רע במבט ראשון, אבל חלק גדול מהפער נובע משינוי בדרך שבה Uber מציגה חשבונאית פעילות מסוימת בבריטניה.</p>
+<p>לכן כדי להבין את העסק אני נותן יותר משקל ל-Gross Bookings ולרווח התפעולי. שם רואים תמונה הרבה יותר חזקה.</p>
+</div>
+
+<div class="card soft">
+<h3>למה הצמיחה נראית איכותית?</h3>
+<p>הפעילות גדלה בערך 20%, אבל הרווח המגזרי גדל 28%. כלומר Uber לא רק מביאה יותר נסיעות, אלא גם מצליחה להרוויח יותר מהמערכת ככל שהיא גדלה.</p>
+</div>
+
+<div class="card"><h3>מה יכול לשפר את Mobility עוד יותר?</h3>
+<p>יותר נסיעות עסקיות, מוצרים יקרים יותר כמו Reserve, יעילות בביטוח, שימוש גבוה יותר של נהגים והכנסת רכבים אוטונומיים בלי ש-Uber תצטרך לבנות את כל הטכנולוגיה בעצמה.</p></div>
+</section>
+
+<section class="panel" data-p="delivery">
+<div class="grid">
+<div class="card green"><div class="muted">Gross Bookings</div><div class="kpi">$27.5B</div><div class="good">+25% במטבע קבוע</div></div>
+<div class="card green"><div class="muted">Revenue</div><div class="kpi">$5.25B</div><div class="good">+28%</div></div>
+<div class="card green"><div class="muted">רווח תפעולי מגזרי</div><div class="kpi">$1.06B</div><div class="good">+38%</div></div>
+</div>
+
+<div class="card"><h3>Delivery כבר לא רק משלוח אוכל</h3>
+<p>Uber בונה עסק של “כל מה שצריך עכשיו”: מסעדות, סופר, פארם וקמעונאות. Grocery & Retail כבר הגיע לקצב שנתי של בערך $15B ב-Gross Bookings וצמח סביב 40% במשך כמה רבעונים.</p></div>
+
+<div class="card soft"><h3>למה זה חשוב?</h3>
+<p>אם אותו משתמש פותח Uber גם כשהוא רוצה נסיעה וגם כשהוא רוצה אוכל או קניות, הוא משתמש באפליקציה יותר פעמים בשבוע. זה משפר retention ומאפשר ל-Uber להרוויח יותר מכל משתמש בלי לרכוש אותו מחדש.</p></div>
+
+<div class="card"><h3>מה הסיכון?</h3>
+<p>Delivery הוא שוק תחרותי מאוד. יש הנחות, מבצעים, תחרות מול DoorDash וחברות מקומיות. בנוסף, רכישת Delivery Hero מרחיבה מאוד את החשיפה לשווקים חדשים ולכן גם את המורכבות.</p></div>
+</section>
+
+<section class="panel" data-p="ads">
+<div class="grid">
+<div class="card green"><div class="muted">Advertising run-rate</div><div class="kpi">>$2.5B</div><div class="good">צמיחה של כ-50%</div></div>
+<div class="card green"><div class="muted">חלק Uber One מ-Delivery Bookings</div><div class="kpi">70%+</div><div class="muted">לפי החברה</div></div>
+</div>
+
+<div class="card"><h3>למה הפרסום כל כך מעניין?</h3>
+<p>מסעדה או חנות משלמות ל-Uber כדי להופיע גבוה יותר באפליקציה. Uber כבר הביאה את המשתמש לאפליקציה, ולכן הכנסה מפרסום יכולה להיות בעלת רווחיות גבוהה יותר מעסק המשלוחים עצמו.</p></div>
+
+<div class="card"><h3>Uber One</h3>
+<p>מועדון החברים גורם למשתמשים להזמין יותר ולהישאר יותר זמן בתוך הפלטפורמה. מבחינת משקיע, זה חשוב כי הוא יכול להגדיל תדירות שימוש ולהוריד את עלות גיוס הלקוח לאורך זמן.</p></div>
+
+<div class="card warn"><h3>מה צריך לבדוק?</h3>
+<p>ש-Uber לא “מעמיסה” יותר מדי פרסום ופוגעת בחוויית המשתמש, וש-Uber One באמת משפר רווחיות ולא רק נותן הנחות שמסתירות עלויות.</p>
+<p>בנוסף, ל-FTC יש תביעה פעילה נגד Uber סביב חיובים וביטול של Uber One. זה לא מספיק גדול כרגע כדי לשבור את התזה, אבל כן חשוב כי הוא נוגע ישירות למוצר שאנחנו מציגים כמנוע retention.</p></div>
+</section>
+
+<section class="panel" data-p="av">
+<div class="card dark"><div class="badge">TIER 1</div><h2>רכב אוטונומי: האיום הגדול ביותר וגם ההזדמנות הגדולה ביותר</h2>
+<p>אם בעתיד הרבה נסיעות יתבצעו ללא נהג, הכלכלה של התחום יכולה להשתנות. השאלה אינה רק מי בונה את הרכב הכי טוב. השאלה היא מי שולט בלקוח, באפליקציה, בביקוש ובמערכת ההזמנה.</p></div>
+
+<div class="card"><h3>האסטרטגיה של Uber</h3>
+<p>במקום לנסות לבנות לבד את כל טכנולוגיית הנהיגה האוטונומית, Uber מנסה להיות שכבת ההפצה. היא רוצה ש-Waymo, WeRide, Nuro, Lucid, Volkswagen וחברות נוספות יוכלו להביא רכבים לפלטפורמה שלה.</p></div>
+
+<div class="grid">
+<div class="card"><h3>למה זה יכול לעבוד?</h3><p>לחברת AV יש טכנולוגיה ורכב, אבל לא תמיד יש לה מיליוני לקוחות שמחפשים נסיעה בכל דקה. Uber מביאה את הביקוש.</p></div>
+<div class="card"><h3>למה זה יכול להיכשל?</h3><p>אם Waymo, Tesla או שחקן אחר יצליחו לבנות אפליקציה עצמאית עם מספיק ביקוש, Uber עלולה לאבד חלק מהערך שלה כמתווכת.</p></div>
+</div>
+
+<div class="card soft"><h3>הסימן החיובי שאני מחפש</h3>
+<p>יותר השקות שבהן הרכב האוטונומי זמין דרך Uber, והוכחה שהנסיעות האלו מרחיבות את היקף השוק והרווח ולא רק מחליפות נהגים קיימים.</p></div>
+<div class="card warn"><h3>נקודה קריטית שחייבים להכניס לשווי</h3>
+<p>Uber אומרת שהיא מצפה להתחייב ליותר מ-<strong>$10B</strong> לאורך השנים הקרובות דרך השקעות הון, תשתיות והתחייבויות לרכישת/קליטת רכבים אוטונומיים. לכן AV אינו רק מנוע צמיחה “חינמי”. הוא עלול לצרוך חלק משמעותי מהמזומן שהחברה מייצרת.</p>
+<p>בנוסף, שותפים התחייבו לכ-<strong>120 אלף רכבים</strong> לרשת Uber לאורך השנים הקרובות. חשוב: זו התחייבות עתידית של שותפים, לא 120 אלף רכבים שכבר פועלים ומייצרים הכנסות.</p></div>
