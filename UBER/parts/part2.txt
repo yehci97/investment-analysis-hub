@@ -1,5 +1,3 @@
-</section>
-
 <section class="panel" data-p="financials">
 <div class="card scroll">
 <table>
@@ -12,14 +10,20 @@
 <tr><td>TTM</td><td>~$55.2B</td><td>~$6.7B</td><td>~$10.1B</td><td>קפיצה גדולה באיכות המזומן</td></tr>
 </table>
 </div>
+
 <div class="grid">
 <div class="card green"><div class="muted">ROIC</div><div class="kpi">~19%</div><div class="muted">לעומת ~6% ב-2023</div></div>
 <div class="card green"><div class="muted">P/FCF</div><div class="kpi">~14.5x</div><div class="muted">לפי TTM</div></div>
 <div class="card green"><div class="muted">Q2 FCF</div><div class="kpi">$2.79B</div><div class="good">+13%</div></div>
 </div>
-<div class="card soft"><h3>הדבר הכי חשוב במספרים</h3><p>Uber עברה ממצב שבו צריך לשאול “מתי היא תהיה רווחית?” למצב שבו צריך לשאול “כמה מהר הרווח והמזומן יכולים לגדול?”. זו קפיצה גדולה באיכות העסק.</p></div>
-<div class="card warn"><h3>אבל יש גם נקודה שצריך לנקות</h3><p>הרווח הנקי GAAP יכול להיות תנודתי בגלל שינויי שווי בהשקעות של Uber. לכן אני מעדיף להסתכל על רווח תפעולי, Non-GAAP EPS ו-FCF כדי להבין את העסק עצמו.</p></div>
-<div class="card warn"><h3>השוואת הרבעונים הבאים תהיה פחות נקייה</h3><p>ביולי Uber סגרה את רכישת Getir וגם חזרה לאחד בדוחות את Careem Technologies לאחר שהשיגה שליטה. המשמעות היא שחלק מהצמיחה העתידית ב-Revenue ובפעילות יהיה תוצאה של שינוי בהיקף הקונסולידציה, ולא רק צמיחה אורגנית. לכן ברבעונים הבאים צריך להפריד בין Organic Growth לבין השפעת רכישות.</p></div>
+
+<div class="card soft"><h3>הדבר הכי חשוב במספרים</h3>
+<p>Uber עברה ממצב שבו צריך לשאול “מתי היא תהיה רווחית?” למצב שבו צריך לשאול “כמה מהר הרווח והמזומן יכולים לגדול?”. זו קפיצה גדולה באיכות העסק.</p></div>
+
+<div class="card warn"><h3>אבל יש גם נקודה שצריך לנקות</h3>
+<p>הרווח הנקי GAAP יכול להיות תנודתי בגלל שינויי שווי בהשקעות של Uber. לכן אני מעדיף להסתכל על רווח תפעולי, Non-GAAP EPS ו-FCF כדי להבין את העסק עצמו.</p></div>
+<div class="card warn"><h3>השוואת הרבעונים הבאים תהיה פחות נקייה</h3>
+<p>ביולי Uber סגרה את רכישת Getir וגם חזרה לאחד בדוחות את Careem Technologies לאחר שהשיגה שליטה. המשמעות היא שחלק מהצמיחה העתידית ב-Revenue ובפעילות יהיה תוצאה של שינוי בהיקף הקונסולידציה, ולא רק צמיחה אורגנית. לכן ברבעונים הבאים צריך להפריד בין Organic Growth לבין השפעת רכישות.</p></div>
 </section>
 
 <section class="panel" data-p="cash">
@@ -28,64 +32,166 @@
 <div class="card green"><div class="muted">Total Debt</div><div class="kpi">~$14.7B</div></div>
 <div class="card green"><div class="muted">Leverage לפני Delivery Hero</div><div class="kpi">~0.5x</div><div class="muted">לפי S&P; עשוי לעלות לכ~1.6x עם העסקה</div></div>
 </div>
-<div class="card"><h3>Buybacks</h3><p>במחצית הראשונה של 2026 Uber רכשה בחזרה 46.6 מיליון מניות בכ-$3.5B. מספר המניות בפועל ירד לעומת 2024-2025, וזה חיובי למשקיע כי חלקו היחסי בחברה גדל.</p></div>
-<div class="card"><h3>SBC</h3><p>Stock-Based Compensation עדיין מהותי: כ-$1.0B במחצית הראשונה של 2026. לכן חשוב לא להסתפק ב-FCF בלבד אלא לבדוק שגם מספר המניות יורד. כרגע buybacks אכן מצליחים יותר מלפצות על ההנפקה לעובדים.</p></div>
-<div class="card warn"><h3>החוב הוא לא בעיה היום, אבל יכול להפוך לנושא</h3><p>Uber מייצרת מספיק מזומן כדי לשאת חוב נוכחי. עם זאת, רכישת Delivery Hero צפויה לדרוש מימון משמעותי ולכן אחרי העסקה צריך למדוד מחדש Net Debt / FCF ולא להסתמך על המספרים של היום.</p></div>
+
+<div class="card"><h3>Buybacks</h3>
+<p>במחצית הראשונה של 2026 Uber רכשה בחזרה 46.6 מיליון מניות בכ-$3.5B. מספר המניות בפועל ירד לעומת 2024-2025, וזה חיובי למשקיע כי חלקו היחסי בחברה גדל.</p></div>
+
+<div class="card"><h3>SBC</h3>
+<p>Stock-Based Compensation עדיין מהותי: כ-$1.0B במחצית הראשונה של 2026. לכן חשוב לא להסתפק ב-FCF בלבד אלא לבדוק שגם מספר המניות יורד. כרגע buybacks אכן מצליחים יותר מלפצות על ההנפקה לעובדים.</p></div>
+
+<div class="card warn"><h3>החוב הוא לא בעיה היום, אבל יכול להפוך לנושא</h3>
+<p>Uber מייצרת מספיק מזומן כדי לשאת חוב נוכחי. עם זאת, רכישת Delivery Hero צפויה לדרוש מימון משמעותי ולכן אחרי העסקה צריך למדוד מחדש Net Debt / FCF ולא להסתמך על המספרים של היום.</p></div>
 </section>
 
 <section class="panel" data-p="mna">
-<div class="card dark"><div class="badge">TIER 1</div><h2>רכישת Delivery Hero</h2><p>Uber הציעה לרכוש את Delivery Hero בעסקה שמעריכה את ההון שלה בכ-$14.8B. העסקה עדיין בתהליך ואינה סגורה.</p></div>
-<div class="grid"><div class="card"><h3>מה Uber מקבלת?</h3><p>נוכחות רחבה יותר בעולם, יותר משתמשים, יותר מסעדות, יותר Grocery ויותר נפח Delivery.</p></div><div class="card"><h3>מה המחיר?</h3><p>יותר חוב, יותר אינטגרציה, יותר רגולציה וכניסה לשווקים שבהם האיכות והרווחיות שונות.</p></div></div>
-<div class="card soft"><h3>למה העסקה יכולה להיות טובה?</h3><p>Uber אומרת שהעסקה אמורה להוסיף ל-EPS כבר אחרי הסגירה ולהגיע לתוספת חד-ספרתית גבוהה באחוזים עד השנה השלישית. אם החיסכון וה-cross-sell באמת יגיעו, זו יכולה להיות רכישה שמגדילה את כוח הפלטפורמה.</p></div>
-<div class="card red"><h3>מה מפחיד אותי?</h3><p>Uber מציעה €41.50 למניה, מחיר שמשקף פרמיה של בערך <strong>108%</strong> למחיר הסגירה הבלתי-מושפע של Delivery Hero לפני שהשוק תימחר את העסקה. פרמיה גבוהה אינה בהכרח טעות, אבל היא מעלה מאוד את רף ההוכחה.</p><p>המימון כבר הוגדר בצורה קונקרטית: Uber חתמה על <strong>€4B Term Loan</strong> ובמקביל נותרו כ-<strong>€10.2B</strong> התחייבויות ב-Bridge Facility. S&P מעריכה שה-leverage יכול לעלות מכ~0.5x לכ~1.6x סביב העסקה. לכן אני לא נותן קרדיט מלא לסינרגיות לפני שהן מופיעות בדוחות.</p></div>
+<div class="card dark"><div class="badge">TIER 1</div><h2>רכישת Delivery Hero</h2>
+<p>Uber הציעה לרכוש את Delivery Hero בעסקה שמעריכה את ההון שלה בכ-$14.8B. העסקה עדיין בתהליך ואינה סגורה.</p></div>
+
+<div class="grid">
+<div class="card"><h3>מה Uber מקבלת?</h3><p>נוכחות רחבה יותר בעולם, יותר משתמשים, יותר מסעדות, יותר Grocery ויותר נפח Delivery.</p></div>
+<div class="card"><h3>מה המחיר?</h3><p>יותר חוב, יותר אינטגרציה, יותר רגולציה וכניסה לשווקים שבהם האיכות והרווחיות שונות.</p></div>
+</div>
+
+<div class="card soft"><h3>למה העסקה יכולה להיות טובה?</h3>
+<p>Uber אומרת שהעסקה אמורה להוסיף ל-EPS כבר אחרי הסגירה ולהגיע לתוספת חד-ספרתית גבוהה באחוזים עד השנה השלישית. אם החיסכון וה-cross-sell באמת יגיעו, זו יכולה להיות רכישה שמגדילה את כוח הפלטפורמה.</p></div>
+
+<div class="card red"><h3>מה מפחיד אותי?</h3>
+<p>Uber מציעה €41.50 למניה, מחיר שמשקף פרמיה של בערך <strong>108%</strong> למחיר הסגירה הבלתי-מושפע של Delivery Hero לפני שהשוק תימחר את העסקה. פרמיה גבוהה אינה בהכרח טעות, אבל היא מעלה מאוד את רף ההוכחה.</p>
+<p>המימון כבר הוגדר בצורה קונקרטית: Uber חתמה על <strong>€4B Term Loan</strong> ובמקביל נותרו כ-<strong>€10.2B</strong> התחייבויות ב-Bridge Facility. S&P מעריכה שה-leverage יכול לעלות מכ~0.5x לכ~1.6x סביב העסקה. לכן אני לא נותן קרדיט מלא לסינרגיות לפני שהן מופיעות בדוחות.</p></div>
 </section>
 
 <section class="panel" data-p="macro">
-<div class="card green"><h2>מה במאקרו באמת חשוב ל-Uber?</h2><p>החברה רגישה בעיקר לצרכן, תעסוקה, מחיר דלק, שכר נהגים, רגולציה וריבית. לא כל נתון CPI משנה את התזה, ולכן מסתכלים על המגמה ולא על חודש בודד.</p></div>
-<div class="grid"><div class="card"><h3>צרכן חזק</h3><p>תומך בנסיעות וב-Delivery. האטה בצריכה יכולה להוריד תדירות שימוש.</p></div><div class="card"><h3>מחירי דלק</h3><p>דלק יקר מעלה עלויות לנהגים. Uber יכולה לגלגל חלק למחיר, אבל לא תמיד בלי לפגוע בביקוש.</p></div><div class="card"><h3>שוק עבודה</h3><p>שוק עבודה חלש יכול להגדיל היצע נהגים, אבל גם להחליש ביקוש צרכני. לכן ההשפעה אינה חד-כיוונית.</p></div><div class="card"><h3>ריבית</h3><p>ריבית גבוהה מעלה את עלות החוב ומקשה יותר על M&A גדול כמו Delivery Hero.</p></div></div>
-<div class="card warn"><h3>רגולציה היא סיכון מבני</h3><p>הסוגיה החשובה ביותר היא מעמד הנהגים: עצמאים או עובדים. שינוי חוקים יכול להעלות עלויות שכר, ביטוח והטבות. Uber הוכיחה שהיא יודעת לפעול תחת משטרים שונים, אבל זה עדיין סיכון אמיתי.</p></div>
+<div class="card green"><h2>מה במאקרו באמת חשוב ל-Uber?</h2>
+<p>החברה רגישה בעיקר לצרכן, תעסוקה, מחיר דלק, שכר נהגים, רגולציה וריבית. לא כל נתון CPI משנה את התזה, ולכן מסתכלים על המגמה ולא על חודש בודד.</p></div>
+
+<div class="grid">
+<div class="card"><h3>צרכן חזק</h3><p>תומך בנסיעות וב-Delivery. האטה בצריכה יכולה להוריד תדירות שימוש.</p></div>
+<div class="card"><h3>מחירי דלק</h3><p>דלק יקר מעלה עלויות לנהגים. Uber יכולה לגלגל חלק למחיר, אבל לא תמיד בלי לפגוע בביקוש.</p></div>
+<div class="card"><h3>שוק עבודה</h3><p>שוק עבודה חלש יכול להגדיל היצע נהגים, אבל גם להחליש ביקוש צרכני. לכן ההשפעה אינה חד-כיוונית.</p></div>
+<div class="card"><h3>ריבית</h3><p>ריבית גבוהה מעלה את עלות החוב ומקשה יותר על M&A גדול כמו Delivery Hero.</p></div>
+</div>
+
+<div class="card warn"><h3>רגולציה היא סיכון מבני</h3>
+<p>הסוגיה החשובה ביותר היא מעמד הנהגים: עצמאים או עובדים. שינוי חוקים יכול להעלות עלויות שכר, ביטוח והטבות. Uber הוכיחה שהיא יודעת לפעול תחת משטרים שונים, אבל זה עדיין סיכון אמיתי.</p></div>
 </section>
 
 <section class="panel" data-p="peers">
-<div class="card dark"><h2>מי באמת המתחרות?</h2><p>אין מתחרה אחת שזהה ל-Uber. Lyft דומה בנסיעות, DoorDash ב-Delivery, Grab במודל Super-app אזורי, ו-Booking במאפיינים של marketplace עם FCF גבוה. לכן צריך להשוות לפי חלקים.</p></div>
-<div class="card scroll"><table><tr><th>חברה</th><th>מה דומה?</th><th>Forward P/E</th><th>P/FCF</th><th>המשמעות</th></tr><tr><td><strong>Uber</strong></td><td>Mobility + Delivery + Ads</td><td>~17x</td><td>~14.5x</td><td>צמיחה ורווחיות יחד</td></tr><tr><td><strong>Lyft</strong></td><td>Mobility</td><td>~8x</td><td>~5x</td><td>זולה יותר, אבל scale ו-ROIC חלשים יותר</td></tr><tr><td><strong>DoorDash</strong></td><td>Delivery</td><td>~31x</td><td>~34x</td><td>השוק נותן פרמיה גדולה לצמיחה ב-Delivery</td></tr><tr><td><strong>Grab</strong></td><td>Mobility + Delivery</td><td>~17.5x</td><td>לא נקי</td><td>דומה מבנית, אבל קטנה ואזורית יותר</td></tr><tr><td><strong>Booking</strong></td><td>Marketplace עם FCF</td><td>~15.6x</td><td>~13.7x</td><td>Benchmark טוב לבשלות ו-cash generation</td></tr></table></div>
-<div class="card soft"><h3>המסקנה מההשוואה</h3><p>Uber אינה הכי זולה. Lyft זולה בהרבה. אבל Uber גם אינה יקרה כמו DoorDash, למרות שהיא מייצרת הרבה יותר FCF ומחזיקה פלטפורמה רחבה יותר. בעיניי התמחור של Uber נראה סביר ביחס לאיכות, ולא “מציאה ברורה”.</p></div>
+<div class="card dark"><h2>מי באמת המתחרות?</h2>
+<p>אין מתחרה אחת שזהה ל-Uber. Lyft דומה בנסיעות, DoorDash ב-Delivery, Grab במודל Super-app אזורי, ו-Booking במאפיינים של marketplace עם FCF גבוה. לכן צריך להשוות לפי חלקים.</p></div>
+
+<div class="card scroll">
+<table>
+<tr><th>חברה</th><th>מה דומה?</th><th>Forward P/E</th><th>P/FCF</th><th>המשמעות</th></tr>
+<tr><td><strong>Uber</strong></td><td>Mobility + Delivery + Ads</td><td>~17x</td><td>~14.5x</td><td>צמיחה ורווחיות יחד</td></tr>
+<tr><td><strong>Lyft</strong></td><td>Mobility</td><td>~8x</td><td>~5x</td><td>זולה יותר, אבל scale ו-ROIC חלשים יותר</td></tr>
+<tr><td><strong>DoorDash</strong></td><td>Delivery</td><td>~31x</td><td>~34x</td><td>השוק נותן פרמיה גדולה לצמיחה ב-Delivery</td></tr>
+<tr><td><strong>Grab</strong></td><td>Mobility + Delivery</td><td>~17.5x</td><td>לא נקי</td><td>דומה מבנית, אבל קטנה ואזורית יותר</td></tr>
+<tr><td><strong>Booking</strong></td><td>Marketplace עם FCF</td><td>~15.6x</td><td>~13.7x</td><td>Benchmark טוב לבשלות ו-cash generation</td></tr>
+</table>
+</div>
+
+<div class="card soft"><h3>המסקנה מההשוואה</h3>
+<p>Uber אינה הכי זולה. Lyft זולה בהרבה. אבל Uber גם אינה יקרה כמו DoorDash, למרות שהיא מייצרת הרבה יותר FCF ומחזיקה פלטפורמה רחבה יותר. בעיניי התמחור של Uber נראה סביר ביחס לאיכות, ולא “מציאה ברורה”.</p></div>
 </section>
 
 <section class="panel" data-p="valuation">
-<div class="card dark"><h2>מה המחיר הנוכחי כבר מניח?</h2><p>ב-$72.63 ובקונצנזוס EPS של כ-$4.41 ל-2027, המניה נסחרת בערך ב-16.5x EPS 2027. זה לא מכפיל גבוה לחברה שמציגה צמיחת EPS של יותר מ-20%, אבל הוא גם לא מכפיל של חברה שנמצאת במשבר.</p></div>
-<div class="card scroll"><table><tr><th>תרחיש</th><th>EPS 2027</th><th>P/E</th><th>Fair Value</th><th>מול $72.63</th><th>מה צריך לקרות?</th></tr><tr><td>Bear</td><td>$3.70</td><td>14x</td><td>$51.80</td><td>-29%</td><td>האטה, AV לוחץ, M&A חלש, מכפיל יורד</td></tr><tr><td>Base</td><td>$4.40</td><td>19x</td><td>$83.60</td><td>+15%</td><td>צמיחה נשארת דו-ספרתית והרווחיות ממשיכה להשתפר</td></tr><tr><td>Bull</td><td>$5.10</td><td>24x</td><td>$122.40</td><td>+69%</td><td>AV עובד דרך Uber, Ads/Delivery חזקים ו-M&A מוסיף ערך</td></tr></table></div>
-<div class="grid"><div class="card green"><div class="muted">שווי משוקלל הסתברויות</div><div class="kpi">~$85</div><div class="muted">25% Bear / 50% Base / 25% Bull</div></div><div class="card green"><div class="muted">Upside משוקלל</div><div class="kpi">~17%</div><div class="muted">לפני דיבידנד, שאין כרגע</div></div></div>
-<div class="card warn"><h3>למה אני לא קורא לזה “זול מאוד”?</h3><p>בתרחיש בסיס התשואה אינה עצומה. כדי לקבל תשואה חריגה צריך או צמיחה טובה מהצפוי או מכפיל גבוה יותר. לכן מחיר הכניסה עדיין חשוב.</p></div>
-<div class="card"><h3>Reverse Valuation בפשטות</h3><p>אם השוק ייתן ל-Uber מכפיל 18x, המחיר הנוכחי דורש EPS של בערך $4.04. קונצנזוס 2027 הוא בערך $4.41. כלומר המחיר לא דורש תרחיש מושלם, אבל כן דורש שהרווח ימשיך לגדול.</p></div>
-<div class="card calc"><h3>מחשבון EPS × מכפיל</h3><div class="grid"><label>EPS עתידי: <strong id="epsv">$4.40</strong><input id="eps" type="range" min="3.2" max="6.2" step="0.1" value="4.4"></label><label>מכפיל: <strong id="pev">19x</strong><input id="pe" type="range" min="12" max="28" step="1" value="19"></label></div><div class="grid" style="margin-top:14px"><div class="card"><div class="muted">Fair Value</div><div class="kpi" id="fair"></div></div><div class="card"><div class="muted">מול $72.63</div><div class="kpi" id="updown"></div></div></div></div>
+<div class="card dark"><h2>שווי: FCF קודם, P/E אחר כך</h2><p>ב-Uber אני מעדיף להתחיל מ-<strong>P/FCF</strong>, כי ה-Free Cash Flow שהחברה מדווחת הוא מזומן שנשאר לבעלי המניות אחרי הוצאות תפעול, ריבית ו-CAPEX. לכן חיבור שלו ל-Market Cap עקבי יותר מחיבור שלו ל-Enterprise Value.</p><p><strong>EV/FCF</strong> יכול להופיע כהקשר, אבל הוא פחות נקי כאן. כדי לעבוד עם Enterprise Value, בדיקת ההצלבה הטובה יותר היא <strong>EV/EBIT או EV/EBITDA</strong>.</p></div>
+<div class="grid">
+<div class="card green"><div class="muted">P/FCF TTM</div><div class="kpi">~14.5x</div><div class="muted">FCF Yield ~6.9%</div></div>
+<div class="card green"><div class="muted">Forward P/E</div><div class="kpi">~17x</div><div class="muted">בדיקת הצלבה על EPS עתידי</div></div>
+<div class="card green"><div class="muted">EV/EBIT</div><div class="kpi">~22.6x</div><div class="muted">בדיקת Enterprise Value</div></div>
+</div>
+<div class="card soft"><h3>למה P/FCF הוא המדד המרכזי?</h3><p>Uber מייצרת מעל $10B FCF ב-12 חודשים, וה-CAPEX שלה נמוך יחסית לגודל העסק. זה הופך את המזומן למדד ישיר לאיכות הכלכלה. במחיר העוגן, המשקיע משלם בערך 14-15 דולר על כל דולר FCF נוכחי.</p></div>
+<div class="card warn"><h3>אבל צריך להיזהר מה-FCF הנוכחי</h3><p>ה-FCF יכול להשתנות בגלל Working Capital, רכישות, ביטוח והוצאות הקשורות ל-AV. לכן אני לא מכפיל אוטומטית את ה-TTM FCF; אני בודק גם קצב צמיחה, FCF למניה, מספר מניות, והרווח התפעולי.</p></div>
+<div class="card scroll"><table><tr><th>תרחיש</th><th>FCF עתידי משוער</th><th>P/FCF</th><th>שווי הון משוער</th><th>מחיר למניה בקירוב</th><th>מה צריך לקרות?</th></tr><tr><td>Bear</td><td>$9.5B</td><td>11x</td><td>$105B</td><td>~$51</td><td>האטה, AV לוחץ, M&A חלש</td></tr><tr><td>Base</td><td>$12.0B</td><td>15x</td><td>$180B</td><td>~$87</td><td>צמיחה דו-ספרתית והמשך שיפור במרווחים</td></tr><tr><td>Bull</td><td>$14.5B</td><td>18x</td><td>$261B</td><td>~$127</td><td>AV עובד דרך Uber, Ads/Delivery חזקים ו-M&A יוצר ערך</td></tr></table></div>
+<div class="card"><h3>בדיקת הצלבה עם P/E</h3><p>אם קונצנזוס EPS ל-2027 הוא בערך $4.4, אז במחיר העוגן של $72.63 המכפיל הוא כ-16.5x. זה תומך במסקנה שהמניה אינה יקרה מאוד, אבל גם לא Deep Value.</p></div>
+<div class="card"><h3>המסקנה שלי על השווי</h3><p>המדד שמחזיק את התזה הוא FCF למניה. אם FCF ממשיך לגדול מהר יותר ממספר המניות, המחיר הנוכחי נראה סביר עד אטרקטיבי. אם רכישת Delivery Hero או השקעות AV גורמות ל-FCF למניה להיתקע, גם מכפיל 14-15x לא בהכרח יהיה זול.</p></div>
 </section>
 
 <section class="panel" data-p="smc">
-<div class="card dark"><div class="badge">SMC</div><h2>טכני: תיקון בתוך מבנה שעדיין יכול להתייצב</h2><p>המחיר ירד משמעותית מהשיא השנתי, אך ביולי נוצר שפל באזור $65.41 ומשם הגיע מהלך חזרה מעל $78. בספטמבר המחיר חזר לאזור $69-$73.</p></div>
-<div class="grid"><div class="card green"><div class="muted">שפל משמעותי בקיץ</div><div class="kpi">$65.41</div></div><div class="card green"><div class="muted">Liquidity קרובה</div><div class="kpi">$69-$71</div></div><div class="card green"><div class="muted">Supply ראשון</div><div class="kpi">$75.5-$78.5</div></div></div>
-<div class="card"><h3>Market Structure</h3><p>בטווח הקצר יש תיקון. כל עוד המחיר לא נשבר וסוגר בצורה ברורה מתחת לאזור $65.4, אני לא רואה שבירה מלאה של המבנה שנבנה מהשפל של יולי.</p></div>
-<div class="card"><h3>Liquidity</h3><p><strong>Sell-side liquidity:</strong> סביב $69-$71, ולאחר מכן סביב $65.4-$66. <strong>Buy-side liquidity:</strong> סביב $75.5-$78.5, ובהמשך סביב $80-$82.</p></div>
-<div class="card soft"><h3>תרחיש Long איכותי יותר</h3><p>העדפה שלי היא לראות sweep מתחת לאזור $69-$71, חזרה מהירה מעליו, ואז שבירה של $75.5-$76. זה נותן שילוב טוב יותר של Liquidity + Confirmation.</p></div>
-<div class="card red"><h3>מה יחליש את התמונה?</h3><p>סגירה יומית ברורה מתחת $65.41 ללא reclaim. במקרה כזה ה-SMC יהפוך שלילי יותר, גם אם הפונדמנטלי לא השתנה.</p></div>
-<div class="card warn"><h3>חשוב</h3><p>SMC לא מחליף Valuation. הוא עוזר לבחור נקודת כניסה. חברה טובה במחיר רע עדיין יכולה להיות השקעה חלשה, ומבנה טכני יפה לא מתקן תזה שבורה.</p></div>
+<div class="card dark"><div class="badge">SMC</div><h2>טכני: תיקון בתוך מבנה שעדיין יכול להתייצב</h2>
+<p>המחיר ירד משמעותית מהשיא השנתי, אך ביולי נוצר שפל באזור $65.41 ומשם הגיע מהלך חזרה מעל $78. בספטמבר המחיר חזר לאזור $69-$73.</p></div>
+
+<div class="grid">
+<div class="card green"><div class="muted">שפל משמעותי בקיץ</div><div class="kpi">$65.41</div></div>
+<div class="card green"><div class="muted">Liquidity קרובה</div><div class="kpi">$69-$71</div></div>
+<div class="card green"><div class="muted">Supply ראשון</div><div class="kpi">$75.5-$78.5</div></div>
+</div>
+
+<div class="card"><h3>Market Structure</h3>
+<p>בטווח הקצר יש תיקון. כל עוד המחיר לא נשבר וסוגר בצורה ברורה מתחת לאזור $65.4, אני לא רואה שבירה מלאה של המבנה שנבנה מהשפל של יולי.</p></div>
+
+<div class="card"><h3>Liquidity</h3>
+<p><strong>Sell-side liquidity:</strong> סביב $69-$71, ולאחר מכן סביב $65.4-$66. <strong>Buy-side liquidity:</strong> סביב $75.5-$78.5, ובהמשך סביב $80-$82.</p></div>
+
+<div class="card soft"><h3>תרחיש Long איכותי יותר</h3>
+<p>העדפה שלי היא לראות sweep מתחת לאזור $69-$71, חזרה מהירה מעליו, ואז שבירה של $75.5-$76. זה נותן שילוב טוב יותר של Liquidity + Confirmation.</p></div>
+
+<div class="card red"><h3>מה יחליש את התמונה?</h3>
+<p>סגירה יומית ברורה מתחת $65.41 ללא reclaim. במקרה כזה ה-SMC יהפוך שלילי יותר, גם אם הפונדמנטלי לא השתנה.</p></div>
+
+<div class="card warn"><h3>חשוב</h3>
+<p>SMC לא מחליף Valuation. הוא עוזר לבחור נקודת כניסה. חברה טובה במחיר רע עדיין יכולה להיות השקעה חלשה, ומבנה טכני יפה לא מתקן תזה שבורה.</p></div>
 </section>
 
 <section class="panel" data-p="risks">
-<div class="card red"><h2>Pre-Mortem: איך ההשקעה יכולה להיכשל?</h2><p>נניח שעוד שנתיים המניה נמוכה משמעותית. מה כנראה קרה?</p></div>
-<div class="grid"><div class="card"><h3>AV עוקף את Uber</h3><p>Robotaxi מובילים עוברים לאפליקציות עצמאיות, ו-Uber מאבדת כוח תמחור.</p></div><div class="card"><h3>Delivery Hero מכבידה</h3><p>החוב עולה, הסינרגיות מאחרות והרווחיות נפגעת.</p></div><div class="card"><h3>רגולציה</h3><p>יותר שווקים מחייבים תנאים דומים לעובדים ומעלים עלויות קבועות.</p></div><div class="card"><h3>ביטוח</h3><p>זה סיכון גדול יותר ממה שנראה בכותרות. ל-Uber יש יותר מ-<strong>$12B</strong> של עתודות ביטוח קצרות וארוכות טווח. העתודות מבוססות על הערכות אקטואריות; אם תביעות יתבררו כיקרות מהצפוי, Uber תצטרך להכיר בהוצאה נוספת.</p><p>בנוסף, Uber תלויה במספר מוגבל של ספקי ביטוח ומעמידה collateral לחלק מההתחייבויות. לכן ביטוח יכול לפגוע גם ברווח וגם במזומן הזמין.</p></div><div class="card"><h3>צרכן חלש</h3><p>פחות נסיעות ופחות משלוחים, בעיקר במוצרים יקרים יותר.</p></div><div class="card"><h3>SBC חוזר לדלל</h3><p>אם buybacks נחלשים ומספר המניות שוב עולה, FCF למניה נפגע.</p></div></div>
-<div class="card dark"><h3>Invalidation אמיתי</h3><p>אני אשנה את התזה אם נראה כמה רבעונים שבהם Gross Bookings יורד לאזור חד-ספרתי, הרווח התפעולי כבר לא גדל מהר יותר מהפעילות, FCF למניה מפסיק לגדול, מספר המניות שוב עולה, או שה-AV מתחיל לצבור scale משמעותי מחוץ ל-Uber בשווקים מרכזיים.</p></div>
+<div class="card red"><h2>Pre-Mortem: איך ההשקעה יכולה להיכשל?</h2>
+<p>נניח שעוד שנתיים המניה נמוכה משמעותית. מה כנראה קרה?</p></div>
+
+<div class="grid">
+<div class="card"><h3>AV עוקף את Uber</h3><p>Robotaxi מובילים עוברים לאפליקציות עצמאיות, ו-Uber מאבדת כוח תמחור.</p></div>
+<div class="card"><h3>Delivery Hero מכבידה</h3><p>החוב עולה, הסינרגיות מאחרות והרווחיות נפגעת.</p></div>
+<div class="card"><h3>רגולציה</h3><p>יותר שווקים מחייבים תנאים דומים לעובדים ומעלים עלויות קבועות.</p></div>
+<div class="card"><h3>ביטוח</h3><p>זה סיכון גדול יותר ממה שנראה בכותרות. ל-Uber יש יותר מ-<strong>$12B</strong> של עתודות ביטוח קצרות וארוכות טווח. העתודות מבוססות על הערכות אקטואריות; אם תביעות יתבררו כיקרות מהצפוי, Uber תצטרך להכיר בהוצאה נוספת.</p><p>בנוסף, Uber תלויה במספר מוגבל של ספקי ביטוח ומעמידה collateral לחלק מההתחייבויות. לכן ביטוח יכול לפגוע גם ברווח וגם במזומן הזמין.</p></div>
+<div class="card"><h3>צרכן חלש</h3><p>פחות נסיעות ופחות משלוחים, בעיקר במוצרים יקרים יותר.</p></div>
+<div class="card"><h3>SBC חוזר לדלל</h3><p>אם buybacks נחלשים ומספר המניות שוב עולה, FCF למניה נפגע.</p></div>
+</div>
+
+<div class="card dark"><h3>Invalidation אמיתי</h3>
+<p>אני אשנה את התזה אם נראה כמה רבעונים שבהם Gross Bookings יורד לאזור חד-ספרתי, הרווח התפעולי כבר לא גדל מהר יותר מהפעילות, FCF למניה מפסיק לגדול, מספר המניות שוב עולה, או שה-AV מתחיל לצבור scale משמעותי מחוץ ל-Uber בשווקים מרכזיים.</p></div>
 </section>
 
 <section class="panel" data-p="gates">
-<div class="card scroll"><table><tr><th>Gate</th><th>מצב</th><th>למה?</th></tr><tr><td>0 - Data</td><td class="good">PASS</td><td>10-Q, Q2, מקורות חברה ושוק עדכניים.</td></tr><tr><td>1 - Economic Model</td><td class="good">PASS</td><td>Marketplace ברור עם network effects.</td></tr><tr><td>2 - Business Quality</td><td class="good">PASS</td><td>Scale, brand, data ו-cross-platform.</td></tr><tr><td>3 - Financial Quality</td><td class="good">PASS</td><td>Operating Income ו-FCF אמיתיים ומשתפרים.</td></tr><tr><td>4 - Capital Efficiency</td><td class="good">PASS</td><td>ROIC ~19%, CAPEX נמוך יחסית.</td></tr><tr><td>5 - Forward Thesis</td><td class="watch">WATCH+</td><td>Ads, Delivery ו-AV מבטיחים, אך חלק עדיין לא מוכח.</td></tr><tr><td>6 - Market Expectations</td><td class="watch">WATCH</td><td>המניה לא יקרה, אבל השוק כבר מצפה להמשך צמיחה.</td></tr><tr><td>7 - Valuation</td><td class="watch">WATCH+</td><td>סביר-אטרקטיבי, לא deep value.</td></tr><tr><td>8 - Risk / Asymmetry</td><td class="watch">WATCH+</td><td>Upside טוב, אבל AV ו-M&A יוצרים downside אמיתי.</td></tr><tr><td>9 - Decision</td><td class="good">BUY CANDIDATE</td><td>מתאים ל-Watchlist מתקדם / starter בהתאם למחיר ולתיק.</td></tr></table></div>
-<div class="card dark"><div class="badge">PRE-PUBLISH DOUBLE CHECK</div><h3>בדיקה אחרונה לפני פרסום</h3><p><strong>חוב ומימון:</strong> לוודא את מבנה המימון העדכני של Delivery Hero. <strong>AV:</strong> לבדוק השקעות הון, השקות בפועל מול התחייבויות עתידיות. <strong>ביטוח:</strong> עתודות ושינויים בעלות claims. <strong>רגולציה:</strong> Driver classification ותביעות צרכניות. <strong>דילול:</strong> SBC מול buybacks ומספר מניות. <strong>איכות צמיחה:</strong> להפריד צמיחה אורגנית מרכישות. <strong>שווי:</strong> לעדכן מחיר שוק וקונצנזוס לרגע הפרסום.</p></div>
-<div class="card soft"><h3>מה לעקוב אחרי כל רבעון?</h3><p><strong>1.</strong> Gross Bookings growth מעל ~15%. <strong>2.</strong> רווח תפעולי גדל מהר יותר מה-Bookings. <strong>3.</strong> FCF למניה ממשיך לעלות. <strong>4.</strong> מספר המניות לא חוזר לעלות. <strong>5.</strong> AV partnerships מתקדמות להשקות מסחריות. <strong>6.</strong> Delivery Hero לא מעלה leverage לרמה שמתחילה להגביל buybacks והשקעות.</p></div>
-<div class="card"><h3>אזורי החלטה, לא הוראות מסחר</h3><p><strong>$68-$72:</strong> מתחיל להיות מעניין אם ה-Thesis תקפה. <strong>$64-$67:</strong> Asymmetry טוב יותר אם אין שבירה פונדמנטלית. <strong>מעל $85-$90:</strong> צריך יותר הוכחות או תחזיות רווח גבוהות יותר כדי לשמור על Margin of Safety.</p></div>
+<div class="card scroll">
+<table>
+<tr><th>Gate</th><th>מצב</th><th>למה?</th></tr>
+<tr><td>0 - Data</td><td class="good">PASS</td><td>10-Q, Q2, מקורות חברה ושוק עדכניים.</td></tr>
+<tr><td>1 - Economic Model</td><td class="good">PASS</td><td>Marketplace ברור עם network effects.</td></tr>
+<tr><td>2 - Business Quality</td><td class="good">PASS</td><td>Scale, brand, data ו-cross-platform.</td></tr>
+<tr><td>3 - Financial Quality</td><td class="good">PASS</td><td>Operating Income ו-FCF אמיתיים ומשתפרים.</td></tr>
+<tr><td>4 - Capital Efficiency</td><td class="good">PASS</td><td>ROIC ~19%, CAPEX נמוך יחסית.</td></tr>
+<tr><td>5 - Forward Thesis</td><td class="watch">WATCH+</td><td>Ads, Delivery ו-AV מבטיחים, אך חלק עדיין לא מוכח.</td></tr>
+<tr><td>6 - Market Expectations</td><td class="watch">WATCH</td><td>המניה לא יקרה, אבל השוק כבר מצפה להמשך צמיחה.</td></tr>
+<tr><td>7 - Valuation</td><td class="watch">WATCH+</td><td>סביר-אטרקטיבי, לא deep value.</td></tr>
+<tr><td>8 - Risk / Asymmetry</td><td class="watch">WATCH+</td><td>Upside טוב, אבל AV ו-M&A יוצרים downside אמיתי.</td></tr>
+<tr><td>9 - Decision</td><td class="good">BUY CANDIDATE</td><td>מתאים ל-Watchlist מתקדם / starter בהתאם למחיר ולתיק.</td></tr>
+</table>
+</div>
+
+<div class="card dark"><div class="badge">PRE-PUBLISH DOUBLE CHECK</div><h3>בדיקה אחרונה לפני פרסום</h3>
+<p><strong>חוב ומימון:</strong> לוודא את מבנה המימון העדכני של Delivery Hero. <strong>AV:</strong> לבדוק השקעות הון, השקות בפועל מול התחייבויות עתידיות. <strong>ביטוח:</strong> עתודות ושינויים בעלות claims. <strong>רגולציה:</strong> Driver classification ותביעות צרכניות. <strong>דילול:</strong> SBC מול buybacks ומספר מניות. <strong>איכות צמיחה:</strong> להפריד צמיחה אורגנית מרכישות. <strong>שווי:</strong> לעדכן מחיר שוק וקונצנזוס לרגע הפרסום.</p></div>
+<div class="card soft"><h3>מה לעקוב אחרי כל רבעון?</h3>
+<p><strong>1.</strong> Gross Bookings growth מעל ~15%. <strong>2.</strong> רווח תפעולי גדל מהר יותר מה-Bookings. <strong>3.</strong> FCF למניה ממשיך לעלות. <strong>4.</strong> מספר המניות לא חוזר לעלות. <strong>5.</strong> AV partnerships מתקדמות להשקות מסחריות. <strong>6.</strong> Delivery Hero לא מעלה leverage לרמה שמתחילה להגביל buybacks והשקעות.</p></div>
+
+<div class="card"><h3>אזורי החלטה, לא הוראות מסחר</h3>
+<p><strong>$68-$72:</strong> מתחיל להיות מעניין אם ה-Thesis תקפה. <strong>$64-$67:</strong> Asymmetry טוב יותר אם אין שבירה פונדמנטלית. <strong>מעל $85-$90:</strong> צריך יותר הוכחות או תחזיות רווח גבוהות יותר כדי לשמור על Margin of Safety.</p></div>
 </section>
 
 <section class="panel" data-p="sources">
-<div class="card source-list"><h2>המקורות המרכזיים</h2><ul><li><a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Second-Quarter-2026/default.aspx" target="_blank">Uber Q2 2026 Results</a></li><li><a href="https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm" target="_blank">Uber Q2 2026 Form 10-Q</a></li><li><a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx" target="_blank">Delivery Hero acquisition offer</a></li><li><a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Publishes-Offer-Document-for-its-Takeover-Offer-for-Delivery-Hero/default.aspx" target="_blank">Delivery Hero offer document update</a></li><li><a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Unveils-Uber-Autonomous-Solutions-to-Accelerate-Autonomous-Mobility--Delivery-Worldwide/" target="_blank">Uber Autonomous Solutions</a></li><li><a href="https://stockanalysis.com/stocks/uber/financials/" target="_blank">Uber historical financials</a></li><li><a href="https://stockanalysis.com/stocks/uber/financials/ratios/" target="_blank">Uber valuation and ROIC</a></li><li><a href="https://stockanalysis.com/stocks/uber/forecast/" target="_blank">Uber consensus estimates</a></li></ul><p class="small">הניתוח משתמש בנוסף במסגרת ה-Master/Pareto שסיפקת. מקורות חיצוניים משמשים לנתונים עדכניים; המסגרת עצמה קובעת את סדר העבודה, ה-Gates והדגש על תזה, שווי, סיכון ו-Asymmetry.</p></div>
+<div class="card source-list">
+<h2>המקורות המרכזיים</h2>
+<ul>
+<li><a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Second-Quarter-2026/default.aspx" target="_blank">Uber Q2 2026 Results</a></li>
+<li><a href="https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm" target="_blank">Uber Q2 2026 Form 10-Q</a></li>
+<li><a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx" target="_blank">Delivery Hero acquisition offer</a></li>
+<li><a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Publishes-Offer-Document-for-its-Takeover-Offer-for-Delivery-Hero/default.aspx" target="_blank">Delivery Hero offer document update</a></li>
+<li><a href="https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Unveils-Uber-Autonomous-Solutions-to-Accelerate-Autonomous-Mobility--Delivery-Worldwide/" target="_blank">Uber Autonomous Solutions</a></li>
+<li><a href="https://stockanalysis.com/stocks/uber/financials/" target="_blank">Uber historical financials</a></li>
+<li><a href="https://stockanalysis.com/stocks/uber/financials/ratios/" target="_blank">Uber valuation and ROIC</a></li>
+<li><a href="https://stockanalysis.com/stocks/uber/forecast/" target="_blank">Uber consensus estimates</a></li>
+</ul>
+<p class="small">הניתוח משתמש בנוסף במסגרת ה-Master/Pareto שסיפקת. מקורות חיצוניים משמשים לנתונים עדכניים; המסגרת עצמה קובעת את סדר העבודה, ה-Gates והדגש על תזה, שווי, סיכון ו-Asymmetry.</p>
+</div>
 </section>
 
 </main>
@@ -94,7 +200,9 @@ const tabs=[...document.querySelectorAll('.tab')],panels=[...document.querySelec
 function show(n){tabs.forEach(t=>t.classList.toggle('active',t.dataset.t===n));panels.forEach(p=>p.classList.toggle('active',p.dataset.p===n));}
 tabs.forEach(t=>t.addEventListener('click',()=>show(t.dataset.t)));
 const eps=document.getElementById('eps'),pe=document.getElementById('pe');
-function calc(){if(!eps||!pe)return; const e=+eps.value,m=+pe.value,p=e*m,r=(p/72.63-1)*100;document.getElementById('epsv').textContent='$'+e.toFixed(2);document.getElementById('pev').textContent=m+'x';document.getElementById('fair').textContent='$'+p.toFixed(2);document.getElementById('updown').textContent=(r>=0?'+':'')+r.toFixed(1)+'%';}
+function calc(){if(!eps||!pe)return; const e=+eps.value,m=+pe.value,p=e*m,r=(p/72.63-1)*100;
+document.getElementById('epsv').textContent='$'+e.toFixed(2);document.getElementById('pev').textContent=m+'x';
+document.getElementById('fair').textContent='$'+p.toFixed(2);document.getElementById('updown').textContent=(r>=0?'+':'')+r.toFixed(1)+'%';}
 if(eps&&pe){eps.addEventListener('input',calc);pe.addEventListener('input',calc);calc();}
 </script>
 </body>
